@@ -1,5 +1,3 @@
-# AboutMe-RepositoryDirectory
-A brief professional summary of my life, what I find exciting about coding, a summary of the projects I've been working on along with a directory to those projects.
 
 # About Me #
 My name is Cade Dillon, and I'm currently transitioning into a new career in Software Engineering after 5 years of service in the United States Marine Corps. I joined the USMC after graduating from River View High School in Spring 2013, and after a lengthy initial training period, found myself in Pensacola, Florida studying Electronics Engineering.
