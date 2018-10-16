@@ -23,4 +23,4 @@ Primary focus of the MSSA program:
 
 | Project Name | Application Type | Description | Project Goals |
 |--------------|------------------|-------------|---------------|
-|YogNatomy|MVC Web Application| YogNatomy is the culminating class project | iugbuibgwbgi|
+|[YogNatomy](https://github.com/cadedillon/YogNatomy)|MVC Web Application|YogNatomy is an app that seeks to make Yoga practice fun and intuitive for practitioners of all skill levels |Project is still in the design phase, implementation begins 10/28 |
